@@ -14,13 +14,15 @@ Hello! I'm Julian Castro, a student of Applied Mathematics and Computer Science 
 
 Here are some of the projects I've worked on and that I'm particularly proud of:
 
-1. **Sentiment analysis on social media:** Used natural language processing (NLP) techniques to analyze sentiments expressed in tweets about a specific topic.
-   
-2. **Housing price prediction:** Developed a machine learning model to predict housing prices based on various features such as size, location, etc.
+1. **Open Banking Data Analysis for Hostel Recommendations:**
+   - Utilized open banking data to analyze the spending patterns and transaction history of specific individuals.
+   - Developed a recommendation system for hostels based on the banking transactions of these individuals, considering factors such as location, spending habits, and travel preferences.
+   - Collaborated with banks to establish partnerships with recommended hostels, creating mutually beneficial agreements for both the hostels and their clients.
 
-3. **Medical image classification:** Worked on a project to classify medical images using convolutional neural networks (CNNs) with the aim of aiding in medical diagnosis.
-
-## Contact
+2. **Time Series Prediction Models for Surgical Machine Operations:**
+   - Implemented predictive modeling techniques to forecast the utilization and associated costs of a surgical machine in the healthcare sector.
+   - Analyzed historical data on machine operations, maintenance schedules, and related expenses to identify patterns and trends.
+   - Developed time series prediction models to anticipate future demand for the surgical machine, enabling better resource allocation and cost management in healthcare facilities.
 
 I would love to connect with you! You can find me on [LinkedIn](https://linkedin.com/in/juli%C3%A1n-andr%C3%A9s-castro-avila-a69480160) or [Instagram](https://www.instagram.com/julian_castro27). Feel free to reach out if you have any questions or suggestions about my projects.   
 
