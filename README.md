@@ -22,6 +22,6 @@ Here are some of the projects I've worked on and that I'm particularly proud of:
 
 ## Contact
 
-I would love to connect with you! You can find me on [LinkedIn](https://linkedin.com/in/juli%C3%A1n-andr%C3%A9s-castro-avila-a69480160) or [Intagram]([https://twitter.com](https://www.instagram.com/julian_castro27). Feel free to reach out if you have any questions or suggestions about my projects.
+I would love to connect with you! You can find me on [LinkedIn](https://linkedin.com/in/juli%C3%A1n-andr%C3%A9s-castro-avila-a69480160) or [Instagram](https://www.instagram.com/julian_castro27). Feel free to reach out if you have any questions or suggestions about my projects.   
 
 Thanks for visiting my profile!
