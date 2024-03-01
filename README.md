@@ -1,14 +1,16 @@
 # Welcome to my GitHub profile
 
-Hello! I'm Julian Castro, a student of Applied Mathematics and Computer Science at Universidad del Rosario, with a focus on Data Science and Artificial Intelligence. I'm passionate about problem-solving and creating innovative solutions using programming and data analysis.
+Hello! I'm Julian Castro, a passionate data scientist, recently graduated with a degree in Applied Mathematics and Computer Science at Universidad del Rosario, I'm passionate about problem-solving and creating innovative solutions using programming and I have since gained valuable industry experience working in various roles.
 
 ## About Me
 
-- 👨‍🎓 Currently pursuing my degree in Applied Mathematics and Computer Science.
-- 💻 Experienced in programming in Python and C++.
-- 📊 Love working with data, from cleaning and analyzing to building predictive models.
-- 🤖 Interested in learning more about Artificial Intelligence and how to apply it in various fields.
-- 🌐 Have an advanced level of English (B2+) that allows me to effectively communicate in a multicultural environment and access online resources in English.
+- 🎓 I recently graduated with a degree in Applied Mathematics and Computer Science, with minors in Data Science and Artificial Intelligence.
+- 💼 I have worked as a software developer and data scientist for companies in the healthcare sector and consulting firms.
+- 🤖 I'm an enthusiast of generative AI and have primarily focused on projects involving machine learning and data analysis using Python and R.
+- 🏥 I have extensive experience in leveraging data to solve complex problems in healthcare, including predictive modeling, patient outcome analysis, and resource optimization.
+- 🌟 I'm passionate about exploring the potential of artificial intelligence and machine learning to drive innovation and create positive impact in various domains.
+
+I'm always eager to collaborate on exciting projects and explore new opportunities to apply my skills and expertise in data science and artificial intelligence.
 
 ## Featured Projects
 
